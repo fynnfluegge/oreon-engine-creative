@@ -19,11 +19,17 @@
 
 <p float="left">
   <img src="images/0040.png" width="290" />
-  <img src="images/0050.png" width="290" /> 
-  <img src="images/0030.png" width="290" />
+  <img src="images/0030.png" width="290" /> 
+  <img src="images/0031.png" width="290" />
 </p>
 
 <p float="left">
-  <img src="images/0031.png" width="290" />
+  <img src="images/0060.png" width="290" />
+  <img src="images/0061.png" width="290" /> 
+  <img src="images/0062.png" width="290" />
+</p>
+
+<p float="left">
+  <img src="images/0050.png" width="290" />
 </p>
 
